@@ -18,6 +18,8 @@ This site covers everything you need to operate as a staff member.
 - [📏 Rules & Conduct](rules.md)
 - [🎫 Tickets & Support](tickets.md)
 - [⚙️ Systems Overview](systems.md)
+- [⚖️ Punishment System](punishments.md)
+- [📈 Staff Progression](progression.md)
 
 ---
 
