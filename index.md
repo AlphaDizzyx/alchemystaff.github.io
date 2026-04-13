@@ -1,13 +1,40 @@
-# Alchemy Staff Guidelines
+---
+title: Home
+layout: default
+nav_order: 1
+---
 
-Welcome to the official staff documentation.
+# 🚀 Alchemy Staff Guidelines
 
-## 📚 Sections
-- [Permissions](permissions.md)
-- [Rules](rules.md)
-- [Tickets](tickets.md)
+Welcome to the official staff documentation for **Alchemy Hub**.
+
+This site covers everything you need to operate as a staff member.
+
+---
+
+## 📚 Documentation
+
+- [👮 Permissions](permissions.md)
+- [📏 Rules & Conduct](rules.md)
+- [🎫 Tickets & Support](tickets.md)
+- [⚙️ Systems Overview](systems.md)
 
 ---
 
 ## 🧠 Overview
-This site contains all staff guidelines, moderation rules, and system documentation for Alchemy.
+
+Alchemy Hub is a licensed digital platform.  
+Staff are expected to follow all procedures outlined here.
+
+---
+
+## ⚡ Quick Notes
+
+- Always follow ticket ownership rules  
+- Do not interfere with claimed tickets  
+- Keep communication professional  
+- Use staff chat for internal discussions  
+
+---
+
+> 💡 This documentation is actively maintained and updated.
