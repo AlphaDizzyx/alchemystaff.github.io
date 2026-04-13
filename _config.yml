@@ -5,6 +5,8 @@ remote_theme: just-the-docs/just-the-docs
 
 color_scheme: dark
 search_enabled: true
+search:
+  heading_level: 3
 
 nav_sort: case_insensitive
 
@@ -13,12 +15,26 @@ logo: /assets/AlchemyNeta.png
 aux_links:
   "Alchemy Hub":
     - "https://buyalchemy.net"
-
 aux_links_new_tab: true
 
-footer_content: "© Alchemy Hub — Staff Documentation"
-
+# 🔥 UI / UX polish
 back_to_top: true
 back_to_top_text: "Back to top"
-
 heading_anchors: true
+
+# 🔥 Clean layout tweaks
+nav_external_links:
+  - title: Visit Website
+    url: https://buyalchemy.net
+
+# 🔥 Footer
+footer_content: "© Alchemy Hub — Staff Documentation"
+
+# 🔥 Performance
+sass:
+  style: compressed
+
+# 🔥 Custom styling
+just_the_docs:
+  custom_css:
+    - assets/css/custom.css
