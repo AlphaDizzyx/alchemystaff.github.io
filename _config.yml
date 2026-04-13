@@ -1,3 +1,15 @@
 title: Alchemy Staff Guidelines
-description: Official staff documentation
-theme: minima
+description: Official staff documentation for Alchemy Hub
+remote_theme: just-the-docs/just-the-docs
+
+color_scheme: dark
+
+search_enabled: true
+
+nav_sort: case_insensitive
+
+aux_links:
+  "Alchemy Hub":
+    - "https://buyalchemy.net"
+
+footer_content: "© Alchemy Hub — Staff Documentation"
