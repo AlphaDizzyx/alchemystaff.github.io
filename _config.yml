@@ -1,15 +1,24 @@
 title: Alchemy Staff Guidelines
 description: Official staff documentation for Alchemy Hub
-remote_theme: just-the-docs/just-the-docs
-logo: https://cdn.discordapp.com/attachments/1441719044100067468/1441719098827604080/AlchemyNeta.png?ex=69dd5d4b&is=69dc0bcb&hm=2aaa5767c06171dad7b6a71a57a3ef4d66edb236ab41b665baa5784819e783bd&
-color_scheme: dark
 
+remote_theme: just-the-docs/just-the-docs
+
+color_scheme: dark
 search_enabled: true
 
 nav_sort: case_insensitive
+
+logo: /assets/logo.png
 
 aux_links:
   "Alchemy Hub":
     - "https://buyalchemy.net"
 
+aux_links_new_tab: true
+
 footer_content: "© Alchemy Hub — Staff Documentation"
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+heading_anchors: true
