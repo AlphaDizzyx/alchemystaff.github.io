@@ -1,0 +1,19 @@
+.notice {
+  padding: 16px;
+  border-radius: 10px;
+  margin: 20px 0;
+  background: #111;
+  border-left: 4px solid #00ff99;
+}
+
+.notice.info {
+  border-left-color: #00bfff;
+}
+
+.notice.danger {
+  border-left-color: #ff4d4d;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+}
