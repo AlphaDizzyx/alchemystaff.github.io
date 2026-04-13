@@ -5,144 +5,148 @@ nav_order: 6
 
 # ⚖️ Punishment System
 
-> 📝 **Note:** Incorrect or unjustified punishments may result in **strikes or demotion**.  
-> All punishments **stack progressively** based on severity or repeated offenses.
-
-Always double-check before punishing — consistency and fairness define professional moderation.
+<div class="notice">
+<strong>⚠️ Moderation Standard</strong><br>
+Incorrect or unjustified punishments may result in <strong>strikes or demotion</strong>.<br>
+All punishments stack progressively — consistency and fairness are critical.
+</div>
 
 ---
 
 ## 📘 Clarification
 
-“Hard R / Soft R / Hard A / Soft A” refer to racial-slur variations and are treated as **hate speech**.
+> “Hard R / Soft R / Hard A / Soft A” refer to racial-slur variations and are treated as **hate speech**.
 
-- [Wiktionary](https://en.wiktionary.org/wiki/soft_a)  
-- [Odyssey Online](https://www.theodysseyonline.com/hard-soft)
+🔗 [Wiktionary](https://en.wiktionary.org/wiki/soft_a)  
+🔗 [Odyssey Article](https://www.theodysseyonline.com/hard-soft)
 
 ---
 
-## ⏱️ Escalation (Strikes)
+## ⏱️ Escalation System
+
+<div class="table-wrapper">
 
 | Strike | Action |
 |--------|--------|
-| 1x | 30m timeout |
-| 2x | 1h timeout |
-| 3x | 3h timeout |
-| 4x | 6h timeout |
-| 5x | 12h timeout |
-| 6x | 3d timeout |
-| 7x | 7d jail + 7d timeout |
+| **1x** | 30m timeout |
+| **2x** | 1h timeout |
+| **3x** | 3h timeout |
+| **4x** | 6h timeout |
+| **5x** | 12h timeout |
+| **6x** | 3d timeout |
+| **7x** | 7d jail + 7d timeout |
 
-> Strikes are per-user and stack across the server.
+</div>
+
+> 📌 Strikes stack globally per user.
 
 ---
 
 ## ⛓️ Definitions
 
-- **Timeout:** Discord Timeout  
-- **Jail:** User is restricted to jail channel only  
+- **Timeout** → Temporary Discord restriction  
+- **Jail** → User can only access jail channel  
 
 ---
 
-# 🧩 Offense Tiers
+# 🧩 Offense Classification
 
-## 🟢 Minor (warn or 1x)
+---
 
-- Mentioning other hubs (warn only)  
-- Minor spam or misuse  
+## 🟢 Minor Offenses  
+*Warn or 1x*
+
+- Minor spam / misuse  
+- Light trolling or baiting  
 - Unsolicited promotion  
-- Light slurs or misinformation  
-- Trolling or baiting  
-- Exploiting loopholes  
+- Low-level disruption  
 
 ---
 
-## 🟡 Moderate (2x)
+## 🟡 Moderate Offenses  
+*2x*
 
 - Borderline NSFW  
 - Religious disrespect  
-- Repeat minor offenses  
-- Suggestive behaviour  
-- Message spam / mass pings  
+- Repeat minor behavior  
+- Spam / mass pinging  
 
 ---
 
-## 🟠 Severe (3x–6x)
+## 🟠 Severe Offenses  
+*3x–6x*
 
 - Harassment / insults  
-- Racism / hate language  
-- Ragebait / provocation  
-- Spam waves  
-- Raid or nuke threats  
+- Hate speech / racism  
+- Spam waves / flooding  
+- Raid threats  
 
 ---
 
-## 🔵 Jail / Final Strike (7x)
+## 🔵 Final Strike (Jail)
 
-- Hate speech / discrimination  
+- Targeted harassment  
 - Death threats  
-- Repeated severe behaviour  
-- Staff targeting / harassment  
+- Repeated severe violations  
 - Compromised accounts  
 
 ---
 
-## 🟣 Instant Permanent Ban
+## 🟣 Permanent Ban
+
+<div class="notice danger">
+
+<strong>Immediate Removal</strong>
 
 - Scamming / fraud  
-- Illegal content  
 - Doxxing / blackmail  
+- Exploits / bypass tools  
 - Staff impersonation  
-- Punishment evasion  
-- Extremism / gore / explicit content  
-- Raiding / hacking  
-- Sharing keys or bypass tools  
+- Illegal or explicit content  
+- Ban evasion  
+
+</div>
 
 ---
 
 # 🛠️ Moderation Systems
 
-## 📊 Moderation Statistics (MS)
+---
 
-**Command:** `/ms` or `ez ms`
+## 📊 Moderation Stats (MS)
 
-- Tracks weekly moderation actions  
-- Minimum **3 actions/week**  
+- `/ms` or `ez ms`
+- Minimum **3 actions/week**
 - Resets every **Monday**
 
 ---
 
-## 📝 Submit Moderation Actions
+## 📝 Action Submissions
 
-**Command:** `/moderation submit`
+Use `/moderation submit`
 
-Steps:
-1. Select action  
-2. Select user  
-3. Add reason  
-4. Attach proof  
-
-> False submissions = **instant demotion**
+✔ Requires proof  
+✔ Reviewed by staff  
+❌ False submissions → **instant demotion**
 
 ---
 
 ## ⛓️ Jail System
 
-Commands:
-- `/jail`
-- `/unjail`
+- `/jail` → restrict user  
+- `/unjail` → restore access  
 
 Used for:
-- Severe offenses  
+- Severe cases  
 - Investigations  
-- Compromised accounts  
+- Security risks  
 
 ---
 
-## 📩 DM Notifications
+## 📩 User Notifications
 
 Users receive:
-- Action  
+- Action taken  
 - Reason  
 - Duration  
 - Moderator  
@@ -151,76 +155,60 @@ Users receive:
 
 ## 🔄 Weekly Reset
 
-- Resets every Monday  
-- No long-term accumulation  
+- Stats reset every Monday  
+- No long-term stacking  
 
 ---
 
 # 🎯 Core Expectations
 
-- Be professional and respectful  
-- Moderate fairly and consistently  
-- Stay calm with users  
-- Work with staff  
-- Be proactive  
+<div class="notice info">
+
+- Be professional  
+- Stay consistent  
+- Remain calm  
+- Work as a team  
+- Act proactively  
+
+</div>
 
 ---
 
 # 💡 Mindset
 
-Your role shapes the community.
+Your role defines the experience of the community.
 
-Act with:
-- Patience  
-- Consistency  
-- Professionalism  
+> Act with **patience, fairness, and control** at all times.
 
 ---
 
-# 📌 General Conduct
+# 📌 Staff Conduct
 
 - Follow all rules  
 - Avoid drama  
-- Use polite language  
-- Encourage positivity  
+- Communicate clearly  
+- Stay respectful  
 
 ---
 
-# ⚠️ Staff Behaviour
+# ⚠️ Requirements
 
-- Do not warn staff → report to management  
-- Do not abuse commands  
-
----
-
-# ⏱️ Shift Requirement
-
-- Minimum **5 hours/week**  
-- 3 warnings → demotion  
+- Minimum **5 hours/week**
+- 3 warnings → **demotion**
 
 ---
 
-# ⛓️ Jail Guidelines
+# ⚙️ Systems Overview
 
-- Jail before banning when possible  
-- Used for security and investigation  
+## ⏱️ ShiftEZ
 
----
-
-# ⚙️ ShiftEZ System
-
-Commands:
 - `ez shift`
 - `ez shift manage`
-
-Includes:
-- Start / break / end shift  
-- Leaderboards  
-- LOA system  
+- Tracks activity & time  
 
 ---
 
-# ⚖️ Point System
+## ⚖️ Points System
 
 | Action | Points |
 |--------|--------|
@@ -228,4 +216,4 @@ Includes:
 | Mute | +3 |
 | Ban | +10 |
 
-> 20 points = automatic ban
+> ⚠️ 20 points = automatic ban
